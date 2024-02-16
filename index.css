@@ -1,6 +1,6 @@
 header {
-    background-color: #dbb403;
-    color: #fff;
+    background-color: #ffe77c;
+    color: #920c0c;
     padding: 20px;
     text-align: center;
     font-family: "Verdana", sans-serif;
@@ -67,7 +67,11 @@ footer {
     padding: 20px;
     text-align: center;
     clear: both;
+    margin-top: 800px;
 }
 
+body{
+    background-color:#fadf69;
+}
 
 
