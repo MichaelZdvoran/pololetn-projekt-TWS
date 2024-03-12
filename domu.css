@@ -1,60 +1,26 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0px;
-    padding: 0;
-    background-color: #ffdb9a;
-    color: #fff;
-}
-
-.container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-}
-
-h1 {
-    text-align: center;
-    color: #ffcc00; /* Žlutá barva */
-}
-
-nav ul {
-    list-style-type: none;
-    padding: 0;
-    text-align: center;
-}
-
-nav ul li {
-    display: inline;
-    margin-right: 20px;
-}
-
-nav ul li a {
-    color: #fff;
-    text-decoration: none;
-}
-
-nav ul li a:hover {
-    color: #ffcc00; /* Žlutá barva */
-}
-
-.container h2 {
-    color: #ffcc00; /* Žlutá barva */
-}
-
-.container p {
-    color: #fff;
-}
-
-footer {
-    background-color: #333; /* Černá barva */
-    color: #fff; /* Bílý text */
-    padding: 10px 0;
-    text-align: center;
-    margin-bottom: 1000px;
-    margin-top: 1000px;
+body{
+    background-color: rgb(218, 217, 217);
+    margin: auto; 
 }
 
 header{
-    background-color: #333;
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    font-family: "Verdana", sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.kontakty{
+    justify-content: center;
+
+}
+
+.kachar{
+    justify-content: left;
+    display: flex;
+    height: 1000px;
+    opacity: 20%;
 
 }
